@@ -1,6 +1,6 @@
 package Scaler;
 
-public class MO {
+public class MethodOverloading {
 
     static int add(int a, int b) {
         System.out.println("add1 ");
